@@ -1,0 +1,33 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: 600px;
+  background-color: #efefef;
+}
+
+header {
+  background-color: #7e57c2;
+  color: #fff;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+header a {
+  font-size: 24px;
+  color: #fff;
+  display: block;
+  text-decoration: none;
+}
+
+h1 span {
+  color: #7e57c2 !important;
+}
+
+h1 {
+  font-weight: bold;
+  font-family: sans-serif;
+  color: #333;
+}
